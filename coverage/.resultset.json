@@ -1,0 +1,142 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/ryanhantak/turing/2module/challenges/B2_mid_mod_1908/spec/features/students/index_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryanhantak/turing/2module/challenges/B2_mid_mod_1908/spec/models/instructor_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        2,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryanhantak/turing/2module/challenges/B2_mid_mod_1908/app/models/instructor.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        4,
+        null,
+        null
+      ],
+      "/Users/ryanhantak/turing/2module/challenges/B2_mid_mod_1908/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/ryanhantak/turing/2module/challenges/B2_mid_mod_1908/spec/models/student_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        2,
+        2,
+        null,
+        null,
+        1,
+        2,
+        2,
+        null,
+        null
+      ],
+      "/Users/ryanhantak/turing/2module/challenges/B2_mid_mod_1908/app/models/student.rb": [
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/ryanhantak/turing/2module/challenges/B2_mid_mod_1908/app/models/instructor_student.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/ryanhantak/turing/2module/challenges/B2_mid_mod_1908/app/controllers/students_controller.rb": [
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null
+      ],
+      "/Users/ryanhantak/turing/2module/challenges/B2_mid_mod_1908/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/Users/ryanhantak/turing/2module/challenges/B2_mid_mod_1908/app/controllers/instructors_controller.rb": [
+        1,
+        null,
+        1,
+        3,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1571679106
+  }
+}
